@@ -1,0 +1,6 @@
+body{background-image:url('Background3.gif'); background-repeat: no-repeat;background-size:cover;
+     height:100vh}
+H1{background-color:pink;}
+p{font-family:'Arial';color:black;font-size:25px;}
+a:link{color:red}
+a:visited{color:green}
